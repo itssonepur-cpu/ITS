@@ -1,0 +1,9 @@
+{
+  "mode": "export", 
+  "cloud_api_token": "",
+  "phone_number_id": "",
+  "business_id": "",
+  "default_country_code": "91",
+  "relay_url": "",
+  "relay_secret": ""
+}
